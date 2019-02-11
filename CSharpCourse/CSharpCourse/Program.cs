@@ -31,6 +31,8 @@ namespace CSharpCourse
                 Console.WriteLine("Pessoa mais velha: " + nomePessoa2);
             }
 
+            Console.WriteLine("Teste");
+
             Console.ReadLine();
         }
     }
