@@ -20,6 +20,7 @@ namespace Enum
             };
 
             Console.WriteLine(order);
+            Console.WriteLine("Testando Git Bash");
             Console.ReadLine();
         }
     }
