@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashExercise", "HashExercis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{ACAF75B4-6613-4BC8-ABBD-49E9959DDC71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerContractsCalculator", "WorkerContractsCalculator\WorkerContractsCalculator.csproj", "{B360D736-E28B-456A-BDBE-14E287AA8ACD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{ACAF75B4-6613-4BC8-ABBD-49E9959DDC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACAF75B4-6613-4BC8-ABBD-49E9959DDC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACAF75B4-6613-4BC8-ABBD-49E9959DDC71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B360D736-E28B-456A-BDBE-14E287AA8ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B360D736-E28B-456A-BDBE-14E287AA8ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B360D736-E28B-456A-BDBE-14E287AA8ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B360D736-E28B-456A-BDBE-14E287AA8ACD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
