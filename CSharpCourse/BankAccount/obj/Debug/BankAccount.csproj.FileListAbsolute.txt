@@ -1,0 +1,7 @@
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\BankAccount\obj\Debug\BankAccount.pdb

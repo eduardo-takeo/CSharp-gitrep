@@ -1,0 +1,7 @@
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\bin\Debug\MatrixExercise.exe.config
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\bin\Debug\MatrixExercise.exe
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\bin\Debug\MatrixExercise.pdb
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\obj\Debug\MatrixExercise.csprojAssemblyReference.cache
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\obj\Debug\MatrixExercise.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\obj\Debug\MatrixExercise.exe
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\obj\Debug\MatrixExercise.pdb

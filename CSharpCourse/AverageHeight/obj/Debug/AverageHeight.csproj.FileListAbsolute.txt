@@ -1,0 +1,7 @@
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\AverageHeight\bin\Debug\AverageHeight.exe.config
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\AverageHeight\bin\Debug\AverageHeight.exe
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\AverageHeight\bin\Debug\AverageHeight.pdb
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\AverageHeight\obj\Debug\AverageHeight.csprojAssemblyReference.cache
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\AverageHeight\obj\Debug\AverageHeight.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\AverageHeight\obj\Debug\AverageHeight.exe
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\AverageHeight\obj\Debug\AverageHeight.pdb

@@ -1,0 +1,7 @@
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaEstoque\bin\Debug\CalculaEstoque.exe.config
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaEstoque\bin\Debug\CalculaEstoque.exe
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaEstoque\bin\Debug\CalculaEstoque.pdb
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaEstoque\obj\Debug\CalculaEstoque.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaEstoque\obj\Debug\CalculaEstoque.exe
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaEstoque\obj\Debug\CalculaEstoque.pdb
+C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaEstoque\obj\Debug\CalculaEstoque.csprojAssemblyReference.cache
