@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WorkerContractsCalculator.Entities.Enums
 {
-    enum WorkerLevel : int
+    enum WorkerLevel
     {        
         Junior = 0,
         MidLevel = 1,

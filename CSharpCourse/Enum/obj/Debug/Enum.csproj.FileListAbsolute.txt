@@ -5,3 +5,10 @@ C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\Enum\obj\Debug\
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\Enum\obj\Debug\Enum.exe
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\Enum\obj\Debug\Enum.pdb
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\bin\Debug\Enum.exe.config
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\bin\Debug\Enum.exe
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\bin\Debug\Enum.pdb
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\obj\Debug\Enum.exe
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\obj\Debug\Enum.pdb

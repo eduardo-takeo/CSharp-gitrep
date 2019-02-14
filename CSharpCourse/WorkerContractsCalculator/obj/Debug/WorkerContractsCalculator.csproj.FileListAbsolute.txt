@@ -1,0 +1,7 @@
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\WorkerContractsCalculator\bin\Debug\WorkerContractsCalculator.exe.config
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\WorkerContractsCalculator\bin\Debug\WorkerContractsCalculator.exe
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\WorkerContractsCalculator\bin\Debug\WorkerContractsCalculator.pdb
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\WorkerContractsCalculator\obj\Debug\WorkerContractsCalculator.csprojAssemblyReference.cache
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\WorkerContractsCalculator\obj\Debug\WorkerContractsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\WorkerContractsCalculator\obj\Debug\WorkerContractsCalculator.exe
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\WorkerContractsCalculator\obj\Debug\WorkerContractsCalculator.pdb
