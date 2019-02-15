@@ -5,3 +5,10 @@ C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\PostComments\obj\D
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\PostComments\obj\Debug\PostComments.csproj.CoreCompileInputs.cache
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\PostComments\obj\Debug\PostComments.exe
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\PostComments\obj\Debug\PostComments.pdb
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\PostComments\bin\Debug\PostComments.exe.config
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\PostComments\bin\Debug\PostComments.exe
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\PostComments\bin\Debug\PostComments.pdb
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\PostComments\obj\Debug\PostComments.csprojAssemblyReference.cache
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\PostComments\obj\Debug\PostComments.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\PostComments\obj\Debug\PostComments.exe
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\PostComments\obj\Debug\PostComments.pdb
