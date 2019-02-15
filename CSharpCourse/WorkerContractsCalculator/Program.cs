@@ -18,7 +18,9 @@ namespace WorkerContractsCalculator
             Console.Write("Name: ");
             string workerName = Console.ReadLine();
             Console.Write("Level (Junior/MidLevel/Senior): ");
-            WorkerLevel level = Enum.Parse<WorkerLevel>(Console.ReadLine());       
+            string workerlevel = Console.ReadLine();
+            WorkerLevel level;
+            Enum.TryParse(workerlevel, true, out level);       
             Console.Write("Base salary: ");
             double baseSalary = double.Parse(Console.ReadLine());
 
@@ -48,8 +50,8 @@ namespace WorkerContractsCalculator
             int month = int.Parse(monthAndYear.Substring(0, 2));
             int year = int.Parse(monthAndYear.Substring(3));
             Console.WriteLine("Name: " + worker.Name);
-            Console.WriteLine("Department: " + worker.Department);
-
+            Console.WriteLine("Department: " + worker.Department.Name);
+            Console.WriteLine("Income for " + monthAndYear + ": " + worker.Income(year, month));
             Console.ReadLine();
         }
     }

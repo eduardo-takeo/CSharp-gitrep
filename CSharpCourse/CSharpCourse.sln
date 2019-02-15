@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerContractsCalculator", "WorkerContractsCalculator\WorkerContractsCalculator.csproj", "{B360D736-E28B-456A-BDBE-14E287AA8ACD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostComments", "PostComments\PostComments.csproj", "{5289C495-FCFF-4EBE-9F44-2D5A80D533EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B360D736-E28B-456A-BDBE-14E287AA8ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B360D736-E28B-456A-BDBE-14E287AA8ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B360D736-E28B-456A-BDBE-14E287AA8ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5289C495-FCFF-4EBE-9F44-2D5A80D533EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5289C495-FCFF-4EBE-9F44-2D5A80D533EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5289C495-FCFF-4EBE-9F44-2D5A80D533EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5289C495-FCFF-4EBE-9F44-2D5A80D533EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
