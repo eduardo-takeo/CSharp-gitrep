@@ -23,12 +23,5 @@ namespace ShowOrderItems.Entities
             Email = email;
             BirthDate = birthDate;
         }
-
-        public override string ToString()
-        {
-            StringBuilder sb = new StringBuilder();
-            sb.Append($"{Name} ({BirthDate}) - {Email}");
-            return sb.ToString();
-        }
     }
 }

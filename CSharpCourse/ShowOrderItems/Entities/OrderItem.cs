@@ -29,16 +29,5 @@ namespace ShowOrderItems.Entities
             double result = Price * Quantity;
             return result;
         }
-
-        //TODO
-        public override string ToString()
-        {
-            StringBuilder sb = new StringBuilder();
-            foreach (OrderItem item in items)
-            {
-                sb.AppendLine($"{product.Name}, ${product.Price}, Quantity: {Quantity}, Subtotal: {subTotal()}");
-            }            
-            return sb.ToString();
-        }
     }
 }

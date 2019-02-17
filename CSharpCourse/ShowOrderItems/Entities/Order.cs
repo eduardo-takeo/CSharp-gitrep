@@ -18,7 +18,7 @@ namespace ShowOrderItems.Entities
         {
 
         }
-
+        
         public Order(DateTime moment, OrderStatus status, Client client)
         {
             Moment = moment;
@@ -36,10 +36,30 @@ namespace ShowOrderItems.Entities
             items.Remove(item);
         }
 
-        //TODO
-        public void total()
+        //TODO Completar metodo total()
+        public double total()
         {
-            
+            double totalValue = 0;
+            foreach (OrderItem item in items)
+            {
+                totalValue += item.subTotal();               
+            }
+            return totalValue;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Order moment: " + Moment);
+            sb.AppendLine("Order status: " + Status);
+            sb.AppendLine($"{client.Name} ({client.BirthDate}) - {client.Email}");
+            sb.AppendLine("Order items: ");
+            foreach (OrderItem item in items)
+            {
+                sb.AppendLine($"{item.product.Name}, ${item.product.Price}, Quantity: {item.Quantity}, Subtotal: ${item.subTotal()}");
+            }                       
+            sb.AppendLine($"Total price: ${total().ToString()}");
+            return sb.ToString();
         }
     }
 }
