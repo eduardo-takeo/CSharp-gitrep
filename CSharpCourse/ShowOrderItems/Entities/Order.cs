@@ -1,9 +1,7 @@
 ﻿using ShowOrderItems.Entities.Enum;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace ShowOrderItems.Entities
 {
@@ -35,8 +33,7 @@ namespace ShowOrderItems.Entities
         {
             items.Remove(item);
         }
-
-        //TODO Completar metodo total()
+        
         public double total()
         {
             double totalValue = 0;
