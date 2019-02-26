@@ -1,0 +1,7 @@
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShapeArea\obj\Debug\ShapeArea.csprojAssemblyReference.cache
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShapeArea\obj\Debug\ShapeArea.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShapeArea\bin\Debug\ShapeArea.exe.config
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShapeArea\bin\Debug\ShapeArea.exe
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShapeArea\bin\Debug\ShapeArea.pdb
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShapeArea\obj\Debug\ShapeArea.exe
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShapeArea\obj\Debug\ShapeArea.pdb
