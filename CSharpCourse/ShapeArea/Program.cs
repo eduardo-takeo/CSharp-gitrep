@@ -23,8 +23,7 @@ namespace ShapeArea
                 Console.Write("Color (Black/Blue/Red): ");
                 string s = Console.ReadLine();
                 Color color;
-                Enum.TryParse(s, out color);
-                Console.WriteLine(color);
+                Enum.TryParse(s, out color);                
                 if (type == 'r')
                 {
                     Console.Write("Width: ");
@@ -49,8 +48,9 @@ namespace ShapeArea
             Console.WriteLine("SHAPE AREAS");
             foreach (Shape shape in shapeList)
             {
-
+                Console.WriteLine(shape.Area());
             }
+            Console.ReadLine();
         }
     }
 }

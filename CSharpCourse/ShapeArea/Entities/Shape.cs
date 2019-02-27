@@ -20,9 +20,6 @@ namespace ShapeArea.Entities.Enum
             Color = color;
         }
 
-        public virtual double Area()
-        {
-            
-        }
+        public abstract double Area();      
     }
 }

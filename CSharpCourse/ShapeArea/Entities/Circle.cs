@@ -22,7 +22,7 @@ namespace ShapeArea.Entities.Enum
 
         public override double Area()
         {
-            return Radius * (3.14 * 3.14);
+            return Math.PI * (Radius * Radius);
         }
     }
 }
