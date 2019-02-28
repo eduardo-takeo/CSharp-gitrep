@@ -22,6 +22,6 @@ namespace TaxCalculator.Entities
             AnualIncome = anualIncome;
         }
 
-        public abstract double calculateTax(double anualIncome);
+        public abstract double calculateTax(double anualIncome);        
     }
 }
