@@ -53,6 +53,7 @@ namespace TaxCalculator
 
             Console.WriteLine();
             Console.Write("TOTAL TAXES: $ " + totalTax);
+            Console.ReadLine();
         }
     }
 }
