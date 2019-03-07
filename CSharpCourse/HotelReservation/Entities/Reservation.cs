@@ -1,4 +1,5 @@
 ﻿using System;
+using HotelReservation.Entities.Exceptions;
 
 namespace HotelReservation.Entities
 {
@@ -13,11 +14,16 @@ namespace HotelReservation.Entities
 
         }
 
-        public Reservation(int roomNumber, DateTime checkin, DateTime checkout)
+        public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
         {
+            if (checkOut <= checkIn)
+            {
+                throw new DomainException("Error in reservation: Check-Out must be after Check-In date");
+            }
+
             RoomNumber = roomNumber;
-            CheckIn = checkin;
-            CheckOut = checkout;
+            CheckIn = checkIn;
+            CheckOut = checkOut;
         }
 
         public int Duration()
@@ -28,8 +34,18 @@ namespace HotelReservation.Entities
 
         public void UpdateDates(DateTime checkIn, DateTime checkOut)
         {
+            DateTime now = DateTime.Now;
+            if (checkIn < now || checkOut < now)
+            {
+                throw new DomainException("Reservation dates must be after Check-In and Check-Out dates to update the reservation");
+            }
+            if (checkOut <= checkIn)
+            {
+                throw new DomainException("Error in reservation: Check-Out must be after Check-In date");
+            }
+
             CheckIn = checkIn;
-            CheckOut = checkOut;
+            CheckOut = checkOut;            
         }
 
         public override string ToString()

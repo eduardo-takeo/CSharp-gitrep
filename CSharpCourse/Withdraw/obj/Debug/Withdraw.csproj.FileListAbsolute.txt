@@ -1,0 +1,7 @@
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\bin\Debug\Withdraw.exe.config
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\bin\Debug\Withdraw.exe
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\bin\Debug\Withdraw.pdb
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.csprojAssemblyReference.cache
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.exe
+C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.pdb
