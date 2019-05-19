@@ -1,0 +1,11 @@
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CarRentWithoutInterface\bin\Debug\netcoreapp2.1\CarRentWithoutInterface.deps.json
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CarRentWithoutInterface\bin\Debug\netcoreapp2.1\CarRentWithoutInterface.runtimeconfig.json
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CarRentWithoutInterface\bin\Debug\netcoreapp2.1\CarRentWithoutInterface.runtimeconfig.dev.json
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CarRentWithoutInterface\bin\Debug\netcoreapp2.1\CarRentWithoutInterface.dll
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CarRentWithoutInterface\bin\Debug\netcoreapp2.1\CarRentWithoutInterface.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CarRentWithoutInterface\obj\Debug\netcoreapp2.1\CarRentWithoutInterface.csprojAssemblyReference.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CarRentWithoutInterface\obj\Debug\netcoreapp2.1\CarRentWithoutInterface.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CarRentWithoutInterface\obj\Debug\netcoreapp2.1\CarRentWithoutInterface.AssemblyInfoInputs.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CarRentWithoutInterface\obj\Debug\netcoreapp2.1\CarRentWithoutInterface.AssemblyInfo.cs
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CarRentWithoutInterface\obj\Debug\netcoreapp2.1\CarRentWithoutInterface.dll
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CarRentWithoutInterface\obj\Debug\netcoreapp2.1\CarRentWithoutInterface.pdb
