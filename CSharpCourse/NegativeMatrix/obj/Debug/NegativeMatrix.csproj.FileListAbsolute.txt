@@ -5,3 +5,10 @@ C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\NegativeMatrix\
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\NegativeMatrix\obj\Debug\NegativeMatrix.csproj.CoreCompileInputs.cache
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\NegativeMatrix\obj\Debug\NegativeMatrix.exe
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\NegativeMatrix\obj\Debug\NegativeMatrix.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\NegativeMatrix\bin\Debug\NegativeMatrix.exe.config
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\NegativeMatrix\bin\Debug\NegativeMatrix.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\NegativeMatrix\bin\Debug\NegativeMatrix.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\NegativeMatrix\obj\Debug\NegativeMatrix.csprojAssemblyReference.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\NegativeMatrix\obj\Debug\NegativeMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\NegativeMatrix\obj\Debug\NegativeMatrix.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\NegativeMatrix\obj\Debug\NegativeMatrix.pdb

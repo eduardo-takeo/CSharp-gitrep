@@ -1,7 +1,6 @@
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\PriceTags\bin\Debug\PriceTags.exe.config
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\PriceTags\bin\Debug\PriceTags.exe
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\PriceTags\bin\Debug\PriceTags.pdb
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\PriceTags\obj\Debug\PriceTags.csprojAssemblyReference.cache
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\PriceTags\obj\Debug\PriceTags.csproj.CoreCompileInputs.cache
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\PriceTags\obj\Debug\PriceTags.exe
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\PriceTags\obj\Debug\PriceTags.pdb

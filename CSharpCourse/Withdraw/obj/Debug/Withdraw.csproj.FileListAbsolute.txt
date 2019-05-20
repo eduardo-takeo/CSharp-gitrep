@@ -8,7 +8,6 @@ C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\bin\Debug\Withdraw.exe.config
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\bin\Debug\Withdraw.exe
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\bin\Debug\Withdraw.pdb
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.csprojAssemblyReference.cache
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.csproj.CoreCompileInputs.cache
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.exe
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.pdb

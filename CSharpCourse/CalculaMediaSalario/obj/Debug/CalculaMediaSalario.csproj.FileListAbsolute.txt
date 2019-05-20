@@ -5,3 +5,10 @@ C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaMediaSal
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaMediaSalario\obj\Debug\CalculaMediaSalario.exe
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaMediaSalario\obj\Debug\CalculaMediaSalario.pdb
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaMediaSalario\obj\Debug\CalculaMediaSalario.csprojAssemblyReference.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaMediaSalario\bin\Debug\CalculaMediaSalario.exe.config
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaMediaSalario\bin\Debug\CalculaMediaSalario.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaMediaSalario\bin\Debug\CalculaMediaSalario.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaMediaSalario\obj\Debug\CalculaMediaSalario.csprojAssemblyReference.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaMediaSalario\obj\Debug\CalculaMediaSalario.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaMediaSalario\obj\Debug\CalculaMediaSalario.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaMediaSalario\obj\Debug\CalculaMediaSalario.pdb

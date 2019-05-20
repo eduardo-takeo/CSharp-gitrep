@@ -1,0 +1,7 @@
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaAreaTriangulo\bin\Debug\CalculaAreaTriangulo.exe.config
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaAreaTriangulo\bin\Debug\CalculaAreaTriangulo.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaAreaTriangulo\bin\Debug\CalculaAreaTriangulo.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaAreaTriangulo\obj\Debug\CalculaAreaTriangulo.csprojAssemblyReference.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaAreaTriangulo\obj\Debug\CalculaAreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaAreaTriangulo\obj\Debug\CalculaAreaTriangulo.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\CalculaAreaTriangulo\obj\Debug\CalculaAreaTriangulo.pdb

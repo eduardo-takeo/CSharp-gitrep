@@ -1,7 +1,6 @@
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\OutsourcedEmployeeCalculator\bin\Debug\OutsourcedEmployeeCalculator.exe.config
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\OutsourcedEmployeeCalculator\bin\Debug\OutsourcedEmployeeCalculator.exe
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\OutsourcedEmployeeCalculator\bin\Debug\OutsourcedEmployeeCalculator.pdb
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\OutsourcedEmployeeCalculator\obj\Debug\OutsourcedEmployeeCalculator.csprojAssemblyReference.cache
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\OutsourcedEmployeeCalculator\obj\Debug\OutsourcedEmployeeCalculator.csproj.CoreCompileInputs.cache
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\OutsourcedEmployeeCalculator\obj\Debug\OutsourcedEmployeeCalculator.exe
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\OutsourcedEmployeeCalculator\obj\Debug\OutsourcedEmployeeCalculator.pdb

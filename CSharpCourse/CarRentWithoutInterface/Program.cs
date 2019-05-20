@@ -1,9 +1,9 @@
-﻿using CarRentWithoutInterface.Entities;
+﻿using CarRentWithInterface.Entities;
 using System;
 using System.Globalization;
-using CarRentWithoutInterface.Services;
+using CarRentWithInterface.Services;
 
-namespace CarRentWithoutInterface
+namespace CarRentWithInterface
 {
     class Program
     {

@@ -5,3 +5,10 @@ C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\HashExercise\ob
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\HashExercise\obj\Debug\HashExercise.csproj.CoreCompileInputs.cache
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\HashExercise\obj\Debug\HashExercise.exe
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\HashExercise\obj\Debug\HashExercise.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HashExercise\bin\Debug\HashExercise.exe.config
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HashExercise\bin\Debug\HashExercise.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HashExercise\bin\Debug\HashExercise.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HashExercise\obj\Debug\HashExercise.csprojAssemblyReference.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HashExercise\obj\Debug\HashExercise.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HashExercise\obj\Debug\HashExercise.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HashExercise\obj\Debug\HashExercise.pdb

@@ -5,3 +5,10 @@ C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\EmployeeRaises\
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\EmployeeRaises\obj\Debug\EmployeeRaises.csproj.CoreCompileInputs.cache
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\EmployeeRaises\obj\Debug\EmployeeRaises.exe
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\EmployeeRaises\obj\Debug\EmployeeRaises.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\EmployeeRaises\bin\Debug\EmployeeRaises.exe.config
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\EmployeeRaises\bin\Debug\EmployeeRaises.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\EmployeeRaises\bin\Debug\EmployeeRaises.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\EmployeeRaises\obj\Debug\EmployeeRaises.csprojAssemblyReference.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\EmployeeRaises\obj\Debug\EmployeeRaises.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\EmployeeRaises\obj\Debug\EmployeeRaises.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\EmployeeRaises\obj\Debug\EmployeeRaises.pdb

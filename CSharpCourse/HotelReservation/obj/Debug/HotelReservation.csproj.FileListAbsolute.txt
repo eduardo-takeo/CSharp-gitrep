@@ -1,0 +1,7 @@
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HotelReservation\bin\Debug\HotelReservation.exe.config
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HotelReservation\bin\Debug\HotelReservation.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HotelReservation\bin\Debug\HotelReservation.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HotelReservation\obj\Debug\HotelReservation.csprojAssemblyReference.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HotelReservation\obj\Debug\HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HotelReservation\obj\Debug\HotelReservation.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\HotelReservation\obj\Debug\HotelReservation.pdb

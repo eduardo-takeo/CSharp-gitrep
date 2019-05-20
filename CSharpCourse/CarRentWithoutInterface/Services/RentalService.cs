@@ -1,7 +1,7 @@
-﻿using CarRentWithoutInterface.Entities;
+﻿using CarRentWithInterface.Entities;
 using System;
 
-namespace CarRentWithoutInterface.Services
+namespace CarRentWithInterface.Services
 {
     class RentalService
     {

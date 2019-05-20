@@ -5,3 +5,10 @@ C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\RentARoom\obj\D
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\RentARoom\obj\Debug\RentARoom.csproj.CoreCompileInputs.cache
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\RentARoom\obj\Debug\RentARoom.exe
 C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\RentARoom\obj\Debug\RentARoom.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\RentARoom\bin\Debug\RentARoom.exe.config
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\RentARoom\bin\Debug\RentARoom.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\RentARoom\bin\Debug\RentARoom.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\RentARoom\obj\Debug\RentARoom.csprojAssemblyReference.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\RentARoom\obj\Debug\RentARoom.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\RentARoom\obj\Debug\RentARoom.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\RentARoom\obj\Debug\RentARoom.pdb

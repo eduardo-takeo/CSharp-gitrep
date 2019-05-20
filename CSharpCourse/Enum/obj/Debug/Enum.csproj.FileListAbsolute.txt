@@ -12,3 +12,10 @@ C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\obj\Debug\Enu
 C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
 C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\obj\Debug\Enum.exe
 C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\obj\Debug\Enum.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\bin\Debug\Enum.exe.config
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\bin\Debug\Enum.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\bin\Debug\Enum.pdb
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\obj\Debug\Enum.exe
+C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Enum\obj\Debug\Enum.pdb

@@ -8,7 +8,6 @@ C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\obj
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\bin\Debug\ShowOrderItems.exe.config
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\bin\Debug\ShowOrderItems.exe
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\bin\Debug\ShowOrderItems.pdb
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\obj\Debug\ShowOrderItems.csprojAssemblyReference.cache
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\obj\Debug\ShowOrderItems.csproj.CoreCompileInputs.cache
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\obj\Debug\ShowOrderItems.exe
 C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\obj\Debug\ShowOrderItems.pdb
