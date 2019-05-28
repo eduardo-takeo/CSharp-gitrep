@@ -1,7 +1,13 @@
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\NegativeMatrix\bin\Debug\NegativeMatrix.exe.config
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\NegativeMatrix\bin\Debug\NegativeMatrix.exe
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\NegativeMatrix\bin\Debug\NegativeMatrix.pdb
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\NegativeMatrix\obj\Debug\NegativeMatrix.csprojAssemblyReference.cache
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\NegativeMatrix\obj\Debug\NegativeMatrix.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\NegativeMatrix\obj\Debug\NegativeMatrix.exe
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\NegativeMatrix\obj\Debug\NegativeMatrix.pdb
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/NegativeMatrix/bin/Debug/NegativeMatrix.exe.config
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/NegativeMatrix/bin/Debug/NegativeMatrix.exe
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/NegativeMatrix/bin/Debug/NegativeMatrix.pdb
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/NegativeMatrix/obj/Debug/NegativeMatrix.csprojAssemblyReference.cache
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/NegativeMatrix/obj/Debug/NegativeMatrix.csproj.CoreCompileInputs.cache
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/NegativeMatrix/obj/Debug/NegativeMatrix.exe
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/NegativeMatrix/obj/Debug/NegativeMatrix.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/NegativeMatrix/bin/Debug/NegativeMatrix.exe.config
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/NegativeMatrix/bin/Debug/NegativeMatrix.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/NegativeMatrix/bin/Debug/NegativeMatrix.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/NegativeMatrix/obj/Debug/NegativeMatrix.csproj.CoreCompileInputs.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/NegativeMatrix/obj/Debug/NegativeMatrix.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/NegativeMatrix/obj/Debug/NegativeMatrix.pdb

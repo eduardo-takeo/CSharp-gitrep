@@ -1,7 +1,14 @@
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\bin\Debug\MatrixExercise.exe.config
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\bin\Debug\MatrixExercise.exe
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\bin\Debug\MatrixExercise.pdb
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\obj\Debug\MatrixExercise.csprojAssemblyReference.cache
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\obj\Debug\MatrixExercise.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\obj\Debug\MatrixExercise.exe
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\MatrixExercise\obj\Debug\MatrixExercise.pdb
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/MatrixExercise/bin/Debug/MatrixExercise.exe.config
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/MatrixExercise/bin/Debug/MatrixExercise.exe
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/MatrixExercise/bin/Debug/MatrixExercise.pdb
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/MatrixExercise/obj/Debug/MatrixExercise.csprojAssemblyReference.cache
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/MatrixExercise/obj/Debug/MatrixExercise.csproj.CoreCompileInputs.cache
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/MatrixExercise/obj/Debug/MatrixExercise.exe
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/MatrixExercise/obj/Debug/MatrixExercise.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/MatrixExercise/bin/Debug/MatrixExercise.exe.config
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/MatrixExercise/bin/Debug/MatrixExercise.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/MatrixExercise/bin/Debug/MatrixExercise.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/MatrixExercise/obj/Debug/MatrixExercise.csprojAssemblyReference.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/MatrixExercise/obj/Debug/MatrixExercise.csproj.CoreCompileInputs.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/MatrixExercise/obj/Debug/MatrixExercise.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/MatrixExercise/obj/Debug/MatrixExercise.pdb

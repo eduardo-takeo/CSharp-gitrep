@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{A1C4531F-D6D4-4F79-8A0E-2B0A3F6835C7}|Default">
+  <MonoDevelop.Ide.ItemProperties.CSharpCourse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Installments/Program.cs">
+    <Files>
+      <File FileName="Installments/Program.cs" Line="23" Column="1" />
+      <File FileName="Installments/Entities/Contract.cs" Line="20" Column="1" />
+      <File FileName="Installments/Entities/Installment.cs" Line="24" Column="2" />
+      <File FileName="Installments/Services/ITaxInstallment.cs" Line="7" Column="38" />
+      <File FileName="Installments/Services/BrazilTaxInstallment.cs" Line="13" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpCourse" expanded="True">
+            <Node name="CarRentWithInterface" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Installments" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Installments FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

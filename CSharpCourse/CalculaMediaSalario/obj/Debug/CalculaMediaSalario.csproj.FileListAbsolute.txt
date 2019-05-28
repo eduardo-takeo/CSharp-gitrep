@@ -1,7 +1,13 @@
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaMediaSalario\bin\Debug\CalculaMediaSalario.exe.config
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaMediaSalario\bin\Debug\CalculaMediaSalario.exe
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaMediaSalario\bin\Debug\CalculaMediaSalario.pdb
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaMediaSalario\obj\Debug\CalculaMediaSalario.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaMediaSalario\obj\Debug\CalculaMediaSalario.exe
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaMediaSalario\obj\Debug\CalculaMediaSalario.pdb
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\CalculaMediaSalario\obj\Debug\CalculaMediaSalario.csprojAssemblyReference.cache
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/CalculaMediaSalario/bin/Debug/CalculaMediaSalario.exe.config
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/CalculaMediaSalario/bin/Debug/CalculaMediaSalario.exe
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/CalculaMediaSalario/bin/Debug/CalculaMediaSalario.pdb
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/CalculaMediaSalario/obj/Debug/CalculaMediaSalario.csproj.CoreCompileInputs.cache
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/CalculaMediaSalario/obj/Debug/CalculaMediaSalario.exe
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/CalculaMediaSalario/obj/Debug/CalculaMediaSalario.pdb
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/CalculaMediaSalario/obj/Debug/CalculaMediaSalario.csprojAssemblyReference.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/CalculaMediaSalario/bin/Debug/CalculaMediaSalario.exe.config
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/CalculaMediaSalario/bin/Debug/CalculaMediaSalario.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/CalculaMediaSalario/bin/Debug/CalculaMediaSalario.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/CalculaMediaSalario/obj/Debug/CalculaMediaSalario.csproj.CoreCompileInputs.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/CalculaMediaSalario/obj/Debug/CalculaMediaSalario.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/CalculaMediaSalario/obj/Debug/CalculaMediaSalario.pdb

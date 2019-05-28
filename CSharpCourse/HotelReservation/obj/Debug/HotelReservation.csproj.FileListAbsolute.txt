@@ -1,0 +1,7 @@
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HotelReservation/bin/Debug/HotelReservation.exe.config
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HotelReservation/bin/Debug/HotelReservation.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HotelReservation/bin/Debug/HotelReservation.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HotelReservation/obj/Debug/HotelReservation.csprojAssemblyReference.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HotelReservation/obj/Debug/HotelReservation.csproj.CoreCompileInputs.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HotelReservation/obj/Debug/HotelReservation.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HotelReservation/obj/Debug/HotelReservation.pdb

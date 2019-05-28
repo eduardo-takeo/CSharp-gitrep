@@ -1,7 +1,13 @@
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\EmployeeRaises\bin\Debug\EmployeeRaises.exe.config
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\EmployeeRaises\bin\Debug\EmployeeRaises.exe
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\EmployeeRaises\bin\Debug\EmployeeRaises.pdb
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\EmployeeRaises\obj\Debug\EmployeeRaises.csprojAssemblyReference.cache
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\EmployeeRaises\obj\Debug\EmployeeRaises.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\EmployeeRaises\obj\Debug\EmployeeRaises.exe
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\EmployeeRaises\obj\Debug\EmployeeRaises.pdb
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/EmployeeRaises/bin/Debug/EmployeeRaises.exe.config
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/EmployeeRaises/bin/Debug/EmployeeRaises.exe
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/EmployeeRaises/bin/Debug/EmployeeRaises.pdb
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/EmployeeRaises/obj/Debug/EmployeeRaises.csprojAssemblyReference.cache
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/EmployeeRaises/obj/Debug/EmployeeRaises.csproj.CoreCompileInputs.cache
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/EmployeeRaises/obj/Debug/EmployeeRaises.exe
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/EmployeeRaises/obj/Debug/EmployeeRaises.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/EmployeeRaises/bin/Debug/EmployeeRaises.exe.config
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/EmployeeRaises/bin/Debug/EmployeeRaises.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/EmployeeRaises/bin/Debug/EmployeeRaises.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/EmployeeRaises/obj/Debug/EmployeeRaises.csproj.CoreCompileInputs.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/EmployeeRaises/obj/Debug/EmployeeRaises.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/EmployeeRaises/obj/Debug/EmployeeRaises.pdb

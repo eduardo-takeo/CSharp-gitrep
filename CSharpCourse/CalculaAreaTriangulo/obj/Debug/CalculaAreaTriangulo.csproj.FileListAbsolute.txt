@@ -1,0 +1,6 @@
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/CalculaAreaTriangulo/bin/Debug/CalculaAreaTriangulo.exe.config
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/CalculaAreaTriangulo/bin/Debug/CalculaAreaTriangulo.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/CalculaAreaTriangulo/bin/Debug/CalculaAreaTriangulo.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/CalculaAreaTriangulo/obj/Debug/CalculaAreaTriangulo.csproj.CoreCompileInputs.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/CalculaAreaTriangulo/obj/Debug/CalculaAreaTriangulo.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/CalculaAreaTriangulo/obj/Debug/CalculaAreaTriangulo.pdb

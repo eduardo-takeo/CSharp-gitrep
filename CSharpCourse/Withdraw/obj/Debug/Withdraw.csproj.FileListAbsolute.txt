@@ -1,14 +1,21 @@
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\bin\Debug\Withdraw.exe.config
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\bin\Debug\Withdraw.exe
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\bin\Debug\Withdraw.pdb
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.csprojAssemblyReference.cache
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.exe
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.pdb
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\bin\Debug\Withdraw.exe.config
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\bin\Debug\Withdraw.exe
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\bin\Debug\Withdraw.pdb
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.csprojAssemblyReference.cache
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.csproj.CoreCompileInputs.cache
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.exe
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\Withdraw\obj\Debug\Withdraw.pdb
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/bin/Debug/Withdraw.exe.config
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/bin/Debug/Withdraw.exe
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/bin/Debug/Withdraw.pdb
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/obj/Debug/Withdraw.csprojAssemblyReference.cache
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/obj/Debug/Withdraw.csproj.CoreCompileInputs.cache
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/obj/Debug/Withdraw.exe
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/obj/Debug/Withdraw.pdb
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/bin/Debug/Withdraw.exe.config
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/bin/Debug/Withdraw.exe
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/bin/Debug/Withdraw.pdb
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/obj/Debug/Withdraw.csprojAssemblyReference.cache
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/obj/Debug/Withdraw.csproj.CoreCompileInputs.cache
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/obj/Debug/Withdraw.exe
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/Withdraw/obj/Debug/Withdraw.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/Withdraw/bin/Debug/Withdraw.exe.config
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/Withdraw/bin/Debug/Withdraw.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/Withdraw/bin/Debug/Withdraw.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/Withdraw/obj/Debug/Withdraw.csprojAssemblyReference.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/Withdraw/obj/Debug/Withdraw.csproj.CoreCompileInputs.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/Withdraw/obj/Debug/Withdraw.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/Withdraw/obj/Debug/Withdraw.pdb

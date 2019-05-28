@@ -1,14 +1,21 @@
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\bin\Debug\TaxCalculator.exe.config
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\bin\Debug\TaxCalculator.exe
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\bin\Debug\TaxCalculator.pdb
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\obj\Debug\TaxCalculator.csprojAssemblyReference.cache
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\obj\Debug\TaxCalculator.exe
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\obj\Debug\TaxCalculator.pdb
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\bin\Debug\TaxCalculator.exe.config
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\bin\Debug\TaxCalculator.exe
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\bin\Debug\TaxCalculator.pdb
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\obj\Debug\TaxCalculator.csprojAssemblyReference.cache
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\obj\Debug\TaxCalculator.exe
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\TaxCalculator\obj\Debug\TaxCalculator.pdb
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/bin/Debug/TaxCalculator.exe.config
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/bin/Debug/TaxCalculator.exe
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/bin/Debug/TaxCalculator.pdb
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/obj/Debug/TaxCalculator.csprojAssemblyReference.cache
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/obj/Debug/TaxCalculator.csproj.CoreCompileInputs.cache
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/obj/Debug/TaxCalculator.exe
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/obj/Debug/TaxCalculator.pdb
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/bin/Debug/TaxCalculator.exe.config
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/bin/Debug/TaxCalculator.exe
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/bin/Debug/TaxCalculator.pdb
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/obj/Debug/TaxCalculator.csprojAssemblyReference.cache
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/obj/Debug/TaxCalculator.csproj.CoreCompileInputs.cache
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/obj/Debug/TaxCalculator.exe
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/obj/Debug/TaxCalculator.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/bin/Debug/TaxCalculator.exe.config
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/bin/Debug/TaxCalculator.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/bin/Debug/TaxCalculator.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/obj/Debug/TaxCalculator.csprojAssemblyReference.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/obj/Debug/TaxCalculator.csproj.CoreCompileInputs.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/obj/Debug/TaxCalculator.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/TaxCalculator/obj/Debug/TaxCalculator.pdb

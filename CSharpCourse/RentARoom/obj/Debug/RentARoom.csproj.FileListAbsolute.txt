@@ -1,7 +1,13 @@
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\RentARoom\bin\Debug\RentARoom.exe.config
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\RentARoom\bin\Debug\RentARoom.exe
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\RentARoom\bin\Debug\RentARoom.pdb
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\RentARoom\obj\Debug\RentARoom.csprojAssemblyReference.cache
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\RentARoom\obj\Debug\RentARoom.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\RentARoom\obj\Debug\RentARoom.exe
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\RentARoom\obj\Debug\RentARoom.pdb
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/RentARoom/bin/Debug/RentARoom.exe.config
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/RentARoom/bin/Debug/RentARoom.exe
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/RentARoom/bin/Debug/RentARoom.pdb
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/RentARoom/obj/Debug/RentARoom.csprojAssemblyReference.cache
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/RentARoom/obj/Debug/RentARoom.csproj.CoreCompileInputs.cache
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/RentARoom/obj/Debug/RentARoom.exe
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/RentARoom/obj/Debug/RentARoom.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/RentARoom/bin/Debug/RentARoom.exe.config
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/RentARoom/bin/Debug/RentARoom.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/RentARoom/bin/Debug/RentARoom.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/RentARoom/obj/Debug/RentARoom.csproj.CoreCompileInputs.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/RentARoom/obj/Debug/RentARoom.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/RentARoom/obj/Debug/RentARoom.pdb

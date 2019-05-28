@@ -1,14 +1,21 @@
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\bin\Debug\ShowOrderItems.exe.config
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\bin\Debug\ShowOrderItems.exe
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\bin\Debug\ShowOrderItems.pdb
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\obj\Debug\ShowOrderItems.csprojAssemblyReference.cache
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\obj\Debug\ShowOrderItems.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\obj\Debug\ShowOrderItems.exe
-C:\Users\eduardo.higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\obj\Debug\ShowOrderItems.pdb
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\bin\Debug\ShowOrderItems.exe.config
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\bin\Debug\ShowOrderItems.exe
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\bin\Debug\ShowOrderItems.pdb
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\obj\Debug\ShowOrderItems.csprojAssemblyReference.cache
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\obj\Debug\ShowOrderItems.csproj.CoreCompileInputs.cache
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\obj\Debug\ShowOrderItems.exe
-C:\Users\Eduardo Higashi\Documents\CSharp-gitrep\CSharpCourse\ShowOrderItems\obj\Debug\ShowOrderItems.pdb
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/bin/Debug/ShowOrderItems.exe.config
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/bin/Debug/ShowOrderItems.exe
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/bin/Debug/ShowOrderItems.pdb
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/obj/Debug/ShowOrderItems.csprojAssemblyReference.cache
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/obj/Debug/ShowOrderItems.csproj.CoreCompileInputs.cache
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/obj/Debug/ShowOrderItems.exe
+C:/Users/eduardo.higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/obj/Debug/ShowOrderItems.pdb
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/bin/Debug/ShowOrderItems.exe.config
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/bin/Debug/ShowOrderItems.exe
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/bin/Debug/ShowOrderItems.pdb
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/obj/Debug/ShowOrderItems.csprojAssemblyReference.cache
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/obj/Debug/ShowOrderItems.csproj.CoreCompileInputs.cache
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/obj/Debug/ShowOrderItems.exe
+C:/Users/Eduardo Higashi/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/obj/Debug/ShowOrderItems.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/bin/Debug/ShowOrderItems.exe.config
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/bin/Debug/ShowOrderItems.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/bin/Debug/ShowOrderItems.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/obj/Debug/ShowOrderItems.csprojAssemblyReference.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/obj/Debug/ShowOrderItems.csproj.CoreCompileInputs.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/obj/Debug/ShowOrderItems.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/ShowOrderItems/obj/Debug/ShowOrderItems.pdb

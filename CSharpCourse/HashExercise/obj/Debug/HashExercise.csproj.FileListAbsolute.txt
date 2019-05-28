@@ -1,7 +1,14 @@
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\HashExercise\bin\Debug\HashExercise.exe.config
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\HashExercise\bin\Debug\HashExercise.exe
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\HashExercise\bin\Debug\HashExercise.pdb
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\HashExercise\obj\Debug\HashExercise.csprojAssemblyReference.cache
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\HashExercise\obj\Debug\HashExercise.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\HashExercise\obj\Debug\HashExercise.exe
-C:\Users\eduardo.higashi\Documents\Projetos Xamarin\CSharpCourse\HashExercise\obj\Debug\HashExercise.pdb
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/HashExercise/bin/Debug/HashExercise.exe.config
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/HashExercise/bin/Debug/HashExercise.exe
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/HashExercise/bin/Debug/HashExercise.pdb
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/HashExercise/obj/Debug/HashExercise.csprojAssemblyReference.cache
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/HashExercise/obj/Debug/HashExercise.csproj.CoreCompileInputs.cache
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/HashExercise/obj/Debug/HashExercise.exe
+C:/Users/eduardo.higashi/Documents/Projetos Xamarin/CSharpCourse/HashExercise/obj/Debug/HashExercise.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HashExercise/bin/Debug/HashExercise.exe.config
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HashExercise/bin/Debug/HashExercise.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HashExercise/bin/Debug/HashExercise.pdb
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HashExercise/obj/Debug/HashExercise.csprojAssemblyReference.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HashExercise/obj/Debug/HashExercise.csproj.CoreCompileInputs.cache
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HashExercise/obj/Debug/HashExercise.exe
+/Users/gabrielhartog/Documents/CSharp-gitrep/CSharpCourse/HashExercise/obj/Debug/HashExercise.pdb

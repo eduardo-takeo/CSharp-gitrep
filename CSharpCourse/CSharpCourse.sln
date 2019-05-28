@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Withdraw", "Withdraw\Withdr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRentWithoutInterface", "CarRentWithoutInterface\CarRentWithoutInterface.csproj", "{0AAF31E1-E79F-4204-84FC-70DEF7A1B0A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentWithInterface", "CarRentWithInterface\CarRentWithInterface.csproj", "{8C394357-AE80-4BA0-8292-7B882D7EE5AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Installments", "Installments\Installments.csproj", "{D3C042D5-4553-4C88-999B-C539309BF4A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{0AAF31E1-E79F-4204-84FC-70DEF7A1B0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AAF31E1-E79F-4204-84FC-70DEF7A1B0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AAF31E1-E79F-4204-84FC-70DEF7A1B0A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C394357-AE80-4BA0-8292-7B882D7EE5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C394357-AE80-4BA0-8292-7B882D7EE5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C394357-AE80-4BA0-8292-7B882D7EE5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C394357-AE80-4BA0-8292-7B882D7EE5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C042D5-4553-4C88-999B-C539309BF4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C042D5-4553-4C88-999B-C539309BF4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C042D5-4553-4C88-999B-C539309BF4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C042D5-4553-4C88-999B-C539309BF4A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
